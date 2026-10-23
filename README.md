@@ -13,10 +13,9 @@ A decentralized NFT marketplace inspired by modern digital collectible platforms
 
 ## Tech Stack
 
-* **Frontend:** React, JavaScript, CSS
-* **Blockchain:** Ethereum
-* **Wallet:** MetaMask
-* **Development:** Node.js, npm
+* **Frontend:** React, JavaScript, CSS , HTML.
+* **Backend:** Postgresql
+* **Development:** Node.js, npm , Express.js.
 
 ## Getting Started
 
@@ -45,7 +44,6 @@ Volt/
 
 * Developing responsive React applications
 * Building reusable UI components
-* Integrating cryptocurrency wallet connectivity
 * Designing NFT marketplace user flows
 * Managing frontend project structure with React
 
@@ -55,7 +53,7 @@ Volt/
 * NFT buying and selling transactions
 * User profiles and owned collections
 * Search and category filters
-* IPFS-based metadata storage
+
 
 
 
